@@ -1,1 +1,1 @@
-jQuery( '.parallax-layer' ).parallax( options );
+jQuery( '.parallax-layer' ).parallax( decay );
