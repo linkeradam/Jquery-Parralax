@@ -1,1 +1,6 @@
-<
+
+.parralax-viewport
+{ position:relative; overflow:hidden; width:100px; height:50px; }
+
+.parralax-layer
+{ position:absolute; }
