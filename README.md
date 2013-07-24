@@ -1,8 +1,8 @@
-Jquery-Parralax
+Jquery-Parallax
 ===============
 
-Prototype parralax
+Prototype parallax
 
 ===============
 
-This is a test to see if I am capable of creating a parralax.
+This is a test to see if I am capable of creating a parallax.
